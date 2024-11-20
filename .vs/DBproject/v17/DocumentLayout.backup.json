@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facu\\Documents\\BD proyecto\\DBproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A00EA5-B3B3-4E42-9C64-9EBCC1C6FD0C}|DBproject.csproj|c:\\users\\facu\\documents\\bd proyecto\\dbproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A00EA5-B3B3-4E42-9C64-9EBCC1C6FD0C}|DBproject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A00EA5-B3B3-4E42-9C64-9EBCC1C6FD0C}|DBproject.csproj|c:\\users\\facu\\documents\\bd proyecto\\dbproject\\ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A00EA5-B3B3-4E42-9C64-9EBCC1C6FD0C}|DBproject.csproj|solutionrelative:ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ventana.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Documents\\BD proyecto\\DBproject\\Ventana.cs",
+              "RelativeDocumentMoniker": "Ventana.cs",
+              "ToolTip": "C:\\Users\\Facu\\Documents\\BD proyecto\\DBproject\\Ventana.cs",
+              "RelativeToolTip": "Ventana.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:51:14.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facu\\Documents\\BD proyecto\\DBproject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Facu\\Documents\\BD proyecto\\DBproject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAAAMAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:00:36.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
